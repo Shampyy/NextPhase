@@ -1,7 +1,7 @@
 # NextPhase 🚀
 **Osobní organizér a správce projektů**
 
-NextPhase je komplexní webová aplikace sloužící jako osobní organizér. Je navržena primárně pro studenty a freelancery, kteří potřebují mít absolutní přehled o svých školních či osobních projektech, úkolech a termínech na jednom místě. Cílem projektu je eliminovat nutnost používat několik různých aplikací pro time management a sjednotit veškerou agendu do přehledného rozhraní.
+NextPhase je osobní organizér a správce projektů. Aplikace je určena primárně pro studenty a freelancery, kteří potřebují mít vše na jednom místě, ať už se to týká školních či osobních projektů, správy úkolů, týdenního přehledu nebo to-do listu.
 
 ## 🌟 Hlavní funkce
 
